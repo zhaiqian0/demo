@@ -1,5 +1,5 @@
 # demo
 
-demo to learn github.
+demo to learn github
 
 
